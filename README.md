@@ -1,5 +1,8 @@
 # README
 
+コントローラーを新規に作る時には以下のようにApiControllerを継承してください。
+Class HogeController < ApiController
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
